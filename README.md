@@ -7,36 +7,36 @@ The purpose of this collection is giving one single recommendation for each topi
 - Just press <kbd>command ⌘</kbd> + <kbd>F</kbd> and search for a keyword or use [Table of Contents](#table-of-contents) directly.
 
 ## Table of Contents
-- [Auto Layout](#auto-layout)
-- [Image](#image)
+- [Auto Layout 👨🏻‍🎨](#auto-layout)
+- [Image 🌃](#image)
 - [JSON](#json)
-- [Keychain](#keychain)
-- [Linter](#linter)
-- [Network](#network)
-- [Push Notification](#push-notification)
-- [Testing / TDD](#testing--tdd)
+- [Keychain 🔑](#keychain)
+- [Linter 👩🏻‍🏫](#linter)
+- [Network 🌎](#network)
+- [Push Notification 💬](#push-notification)
+- [Testing / TDD ✅](#testing--tdd)
 
-## Auto Layout
+## Auto Layout 👨🏻‍🎨
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 
-## Image
+## Image 🌃
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 
 ## JSON
 - [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - //Swifty42: No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
 
-## Keychain
+## Keychain 🔑
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 
-## Linter
+## Linter 👩🏻‍🏫
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
-## Network
+## Network 🌎
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
 
-## Push Notification
+## Push Notification 💬
 - [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //Swifty42: For production.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). //Swifty42: For debugging quickly.
 
-## Testing / TDD
+## Testing / TDD ✅
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
