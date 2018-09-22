@@ -10,6 +10,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Auto Layout](#auto-layout)
 - [Image](#image)
 - [JSON](#json)
+- [Keychain](#keychain)
 - [Network](#network)
 - [Push Notification](#push-notification)
 
@@ -21,6 +22,9 @@ The purpose of this collection is giving one single recommendation for each topi
 
 ## JSON
 - [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - //Swifty42: No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
+
+## Keychain
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 
 ## Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
