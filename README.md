@@ -13,6 +13,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Keychain 🔑](#keychain-)
 - [Linter 👩🏻‍🏫](#linter-)
 - [Network 🌎](#network-)
+- [Podcast 🎙](#podcast-)
 - [Push Notification 💬](#push-notification-)
 - [Server](#server)
 - [Testing / TDD ✅](#testing--tdd-)
@@ -34,6 +35,9 @@ The purpose of this collection is giving one single recommendation for each topi
 
 ## Network 🌎
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
+
+## Podcast 🎙
+- [Swift by Sundell](https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2) - John Sundell & guests answer questions about Swift development from the community.
 
 ## Push Notification 💬
 - [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //Swifty42: For production.
