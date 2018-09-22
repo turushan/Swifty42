@@ -7,6 +7,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - Just press <kbd>command ⌘</kbd> + <kbd>F</kbd> and search for a keyword or use [Table of Contents](#table-of-contents) directly.
 
 ## Table of Contents
+- [Algorithm](#algorithm)
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
 - [Image 🌃](#image-)
 - [JSON](#json)
@@ -17,6 +18,9 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Push Notification 💬](#push-notification-)
 - [Server](#server)
 - [Testing / TDD ✅](#testing--tdd-)
+
+## Algorithm
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 
 ## Auto Layout 👨🏻‍🎨
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
