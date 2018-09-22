@@ -16,11 +16,11 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 
 ## JSON
-- [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
+- [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - //Swifty42: No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
 
 ## Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
 
 ## Push Notification
-- [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //for production.
-- [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). //for testing and development quickly.
+- [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //Swifty42: For production.
+- [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). //Swifty42: For debugging quickly.
