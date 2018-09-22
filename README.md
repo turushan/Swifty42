@@ -7,14 +7,14 @@ The purpose of this collection is giving one single recommendation for each topi
 - Just press <kbd>command ⌘</kbd> + <kbd>F</kbd> and search for a keyword or use [Table of Contents](#table-of-contents) directly.
 
 ## Table of Contents
-- [Auto Layout 👨🏻‍🎨](#auto-layout)
-- [Image 🌃](#image)
+- [Auto Layout 👨🏻‍🎨](#auto-layout-)
+- [Image 🌃](#image-)
 - [JSON](#json)
-- [Keychain 🔑](#keychain)
-- [Linter 👩🏻‍🏫](#linter)
-- [Network 🌎](#network)
-- [Push Notification 💬](#push-notification)
-- [Testing / TDD ✅](#testing--tdd)
+- [Keychain 🔑](#keychain-)
+- [Linter 👩🏻‍🏫](#linter-)
+- [Network 🌎](#network-)
+- [Push Notification 💬](#push-notification-)
+- [Testing / TDD ✅](#testing--tdd-)
 
 ## Auto Layout 👨🏻‍🎨
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
