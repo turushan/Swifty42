@@ -11,6 +11,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Image](#image)
 - [JSON](#json)
 - [Keychain](#keychain)
+- [Linter](#linter)
 - [Network](#network)
 - [Push Notification](#push-notification)
 - [Testing / TDD](#testing--tdd)
@@ -26,6 +27,9 @@ The purpose of this collection is giving one single recommendation for each topi
 
 ## Keychain
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+
+## Linter
+- [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
 ## Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
