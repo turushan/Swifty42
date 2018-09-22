@@ -14,6 +14,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Linter 👩🏻‍🏫](#linter-)
 - [Network 🌎](#network-)
 - [Push Notification 💬](#push-notification-)
+- [Server](#server)
 - [Testing / TDD ✅](#testing--tdd-)
 
 ## Auto Layout 👨🏻‍🎨
@@ -37,6 +38,9 @@ The purpose of this collection is giving one single recommendation for each topi
 ## Push Notification 💬
 - [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //Swifty42: For production.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). //Swifty42: For debugging quickly.
+
+## Server
+- [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 
 ## Testing / TDD ✅
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
