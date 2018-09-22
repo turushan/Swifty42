@@ -8,11 +8,15 @@ The purpose of this collection is giving one single recommendation for each topi
 
 ## Table of Contents
 - [Image](#image)
+- [JSON](#json)
 - [Network](#network)
 - [Push Notification](#push-notification)
 
 ## Image
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
+
+## JSON
+- [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
 
 ## Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
