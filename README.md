@@ -10,13 +10,13 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Algorithm](#algorithm)
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
 - [Image 🌃](#image-)
-- [JSON](#json)
+- [JSON 📦](#json-)
 - [Keychain 🔑](#keychain-)
 - [Linter 👩🏻‍🏫](#linter-)
 - [Network 🌎](#network-)
 - [Podcast 🎙](#podcast-)
 - [Push Notification 💬](#push-notification-)
-- [Server](#server)
+- [Server ☁️](#server-)
 - [Testing / TDD ✅](#testing--tdd-)
 
 ## Algorithm
@@ -28,7 +28,7 @@ The purpose of this collection is giving one single recommendation for each topi
 ## Image 🌃
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 
-## JSON
+## JSON 📦
 - [Codable](https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4) - //Swifty42: No more need a 3rd party library since Swift 4, just use this built-in type alias of Decodable & Encodable.
 
 ## Keychain 🔑
@@ -47,7 +47,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. //Swifty42: For production.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). //Swifty42: For debugging quickly.
 
-## Server
+## Server ☁️
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 
 ## Testing / TDD ✅
