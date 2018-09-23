@@ -10,6 +10,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [Algorithm 🎯](#algorithm-)
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
 - [Conference 👩🏼‍💻](#conference-)
+- [Converter ⚙️](#converter-)
 - [Image 🌃](#image-)
 - [JSON 📦](#json-)
 - [Keychain 🔑](#keychain-)
@@ -36,6 +37,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 | [the Swift Alps](https://theswiftalps.com) | Nov 29-30, 2018 | 🇨🇭 Crans-Montana, Switzerland |
 | [dotSwift](https://www.dotswift.io) | Jan 28, 2019 | 🇫🇷 Paris, France |
 | [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
+
+## Converter ⚙️
+- [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
 
 ## Image 🌃
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
