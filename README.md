@@ -18,7 +18,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [Push Notification 💬](#push-notification-)
 - [Server ☁️](#server-%EF%B8%8F)
 - [Testing / TDD ✅](#testing--tdd-)
-- [Transition 💫](#transitions-)
+- [Transition 💫](#transition-)
 
 ## Algorithm 🎯
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
