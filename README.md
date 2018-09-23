@@ -11,6 +11,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
 - [Conference 👩🏼‍💻](#conference-)
 - [Converter ⚙️](#converter-%EF%B8%8F)
+- [Dependency Manager 🔗](#dependency-manager-)
 - [Image 🌃](#image-)
 - [JSON 📦](#json-)
 - [Keychain 🔑](#keychain-)
@@ -40,6 +41,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## Converter ⚙️
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
+
+## Dependency Manager 🔗
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 
 ## Image 🌃
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
