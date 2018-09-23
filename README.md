@@ -16,7 +16,7 @@ The purpose of this collection is giving one single recommendation for each topi
 - [Network 🌎](#network-)
 - [Podcast 🎙](#podcast-)
 - [Push Notification 💬](#push-notification-)
-- [Server ☁️](#server-)
+- [Server ☁️](#server-%EF%B8%8F)
 - [Testing / TDD ✅](#testing--tdd-)
 
 ## Algorithm
