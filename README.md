@@ -10,7 +10,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [Algorithm 🎯](#algorithm-)
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
 - [Conference 👩🏼‍💻](#conference-)
-- [Converter ⚙️](#converter-)
+- [Converter ⚙️](#converter-%EF%B8%8F)
 - [Image 🌃](#image-)
 - [JSON 📦](#json-)
 - [Keychain 🔑](#keychain-)
