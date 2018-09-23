@@ -16,6 +16,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [Network 🌎](#network-)
 - [Podcast 🎙](#podcast-)
 - [Push Notification 💬](#push-notification-)
+- [Reactive Programming 👨🏽‍🔬](#reactive-programming-)
 - [Server ☁️](#server-%EF%B8%8F)
 - [Testing / TDD ✅](#testing--tdd-)
 - [Transition 💫](#transition-)
@@ -43,6 +44,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## Podcast 🎙
 - [Swift by Sundell](https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2) - John Sundell & guests answer questions about Swift development from the community.
+
+## Reactive Programming 👨🏽‍🔬
+- [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift.
 
 ## Push Notification 💬
 - [OneSignal](https://onesignal.com) - Free push notification service for mobile apps. 🔮 For production.
