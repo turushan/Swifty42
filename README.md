@@ -9,6 +9,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 ## Table of Contents
 - [Algorithm 🎯](#algorithm-)
 - [Auto Layout 👨🏻‍🎨](#auto-layout-)
+- [Chart 📈](#chart-)
 - [Conference 👩🏼‍💻](#conference-)
 - [Converter ⚙️](#converter-%EF%B8%8F)
 - [Dependency Manager 🔗](#dependency-manager-)
@@ -29,6 +30,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## Auto Layout 👨🏻‍🎨
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
+
+## Chart 📈
+- [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 
 ## Conference 👩🏼‍💻
 | Name | Date | Place |
