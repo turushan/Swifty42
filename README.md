@@ -13,6 +13,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [📈 Chart](#-chart)
 - [👩🏼‍💻 Conference](#-conference)
 - [⚙️ Converter](#%EF%B8%8F-converter)
+- [🔐 Cryptography](-cryptography)
 - [🔗 Dependency Manager](#-dependency-manager)
 - [🚀 Deployment & Distribution](#-deployment--distribution)
 - [🌃 Image](#-image)
@@ -50,6 +51,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## ⚙️ Converter
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
+
+## 🔐 Cryptography
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift.
 
 ## 🔗 Dependency Manager
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
