@@ -7,6 +7,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - Just press <kbd>command ⌘</kbd> + <kbd>F</kbd> and search for a keyword or use [Table of Contents](#table-of-contents) directly.
 
 ## Table of Contents
+- [⏳ Activity Indicator](#-activity-indicator)
 - [🎯 Algorithm](#-algorithm)
 - [👨🏻‍🎨 Auto Layout](#-auto-layout)
 - [📝 Blog](#-blog)
@@ -28,6 +29,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [☁️ Server](#%EF%B8%8F-server)
 - [✅ Testing / TDD](#-testing--tdd)
 - [💫 Transition](#-transition)
+
+## ⏳ Activity Indicator
+- [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - A collection of awesome loading animations.
 
 ## 🎯 Algorithm
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
