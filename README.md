@@ -23,6 +23,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [🔑 Keychain](#-keychain)
 - [👩🏻‍🏫 Linter](#-linter)
 - [🌎 Network](#-network)
+- [💀 Placeholder](#-placeholder)
 - [🎙 Podcast](#-podcast)
 - [💬 Push Notification](#-push-notification)
 - [👨🏽‍🔬 Reactive Programming](#-reactive-programming)
@@ -84,6 +85,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## 🌎 Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
+
+## [💀 Placeholder](#-placeholder)
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 
 ## 🎙 Podcast
 - [Swift by Sundell](https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2) - John Sundell & guests answer questions about Swift development from the community.
