@@ -30,6 +30,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 - [☁️ Server](#%EF%B8%8F-server)
 - [✅ Testing / TDD](#-testing--tdd)
 - [💫 Transition](#-transition)
+- [🗞 Weekly Newsletter](#-weekly-newsletter)
 
 ## ⏳ Activity Indicator
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - A collection of awesome loading animations.
@@ -107,3 +108,6 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## 💫 Transition
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS.
+
+## 🗞 Weekly Newsletter
+- [Swift News](https://www.youtube.com/watch?v=ouqepjWK3Dc) - By Sean Allen, is all about curating this week's latest news involving iOS Development. 🔮 Video format.
