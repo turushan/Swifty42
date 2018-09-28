@@ -51,6 +51,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 | Name | Date | Place |
 | --- | --- | --- |
 | [Swift by Northwest](https://swiftbynorthwest.com) | Oct 18-20, 2018 | 🇺🇸 Portland, OR, USA |
+| [Mobile Era](https://mobileera.rocks) | Nov 1-2, 2018 | 🇳🇴 Oslo, Norway |
 | [Swift Heroes](https://swiftheroes.com) | Nov 9, 2018 | 🇮🇹 Turin, Italy |
 | [DevFest Baltics](https://devfest2018.gdg.lv) | Nov 16-17, 2018 | 🇱🇻 Jūrmala, Latvia |
 | [the Swift Alps](https://theswiftalps.com) | Nov 29-30, 2018 | 🇨🇭 Crans-Montana, Switzerland |
