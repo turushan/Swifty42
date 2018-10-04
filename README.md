@@ -9,6 +9,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 ## Table of Contents
 - [⏳ Activity Indicator](#-activity-indicator)
 - [🎯 Algorithm](#-algorithm)
+- [🍎 App Store](#-app-store)
 - [👨🏻‍🎨 Auto Layout](#-auto-layout)
 - [📝 Blog](#-blog)
 - [📈 Chart](#-chart)
@@ -37,6 +38,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## 🎯 Algorithm
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+
+## 🍎 App Store
+- [Average App Store Review Times](http://appreviewtimes.com) - This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
 
 ## 👨🏻‍🎨 Auto Layout
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
