@@ -91,6 +91,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## 🌎 Network
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
+- [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 
 ## [💀 Placeholder](#-placeholder)
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
