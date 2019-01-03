@@ -54,12 +54,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 ## 👩🏼‍💻 Conference
 | Name | Date | Place |
 | --- | --- | --- |
-| [Mobile Era](https://mobileera.rocks) | Nov 1-2, 2018 | 🇳🇴 Oslo, Norway |
-| [Swift Heroes](https://swiftheroes.com) | Nov 9, 2018 | 🇮🇹 Turin, Italy |
-| [DevFest Baltics](https://devfest2018.gdg.lv) | Nov 16-17, 2018 | 🇱🇻 Jūrmala, Latvia |
-| [the Swift Alps](https://theswiftalps.com) | Nov 29-30, 2018 | 🇨🇭 Crans-Montana, Switzerland |
 | [dotSwift](https://www.dotswift.io) | Jan 28, 2019 | 🇫🇷 Paris, France |
 | [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
+| [MobOS](http://romobos.com) | Feb 14-16, 2019 | 🇷🇴 Cluj-Napoca, Romania |
 
 ## ⚙️ Converter
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
