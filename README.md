@@ -60,11 +60,15 @@ The purpose of this collection is just giving one recommendation for each topic 
 | [try! Swift](http://romobos.com) | Mar 01-03, 2019 | 🇯🇵 Tokyo, Japan |
 | [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
 | [iOSCON](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | Mar 21-22, 2019 | 🇬🇧 London, United Kingdom |
+| [Code Mobile](http://www.codemobile.co.uk) | Apr 01-04, 2019 | 🇬🇧 Chester, UK |
 | [Swift by Midwest](https://swiftbymidwest.com) | Apr 17-18, 2019 | 🇺🇸 Chicago, IL, USA |
 | [NSNorth](http://nsnorth.ca) | Apr 26-28, 2019 | 🇨🇦 Canada |
+| [App Builders](https://appbuilders.ch) | Apr 29-30, 2019 | 🇨🇭 Lugano, Switzerland |
 | [UIKonf](http://www.uikonf.com) | May 26-29, 2019 | 🇩🇪 Berlin, Germany |
+| [ADDC](https://addconf.com/2019/) | Jun 26-28, 2019 | 🇪🇸 Barcelona, Spain |
 | [360 iDev](http://360idev.com) | Aug 25-28, 2019 | 🇺🇸 Denver, CO, USA |
 | [iOSDevUK](https://www.iosdevuk.com) | Sep 02-05, 2019 | 🇬🇧 Aberystwyth, UK |
+| [Mobile Era](https://mobileera.rocks) | Nov 07-08, 2019 | 🇳🇴 Oslo, Norway |
 
 ## ⚙️ Converter
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
