@@ -63,7 +63,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 | [Swift by Midwest](https://swiftbymidwest.com) | Apr 17-18, 2019 | 🇺🇸 Chicago, IL, USA |
 | [NSNorth](http://nsnorth.ca) | Apr 26-28, 2019 | 🇨🇦 Canada |
 | [UIKonf](http://www.uikonf.com) | May 26-29, 2019 | 🇩🇪 Berlin, Germany |
-| [360|iDev](http://360idev.com) | Aug 25-28, 2019 | 🇺🇸 Denver, CO, USA |
+| [360 iDev](http://360idev.com) | Aug 25-28, 2019 | 🇺🇸 Denver, CO, USA |
 | [iOSDevUK](https://www.iosdevuk.com) | Sep 02-05, 2019 | 🇬🇧 Aberystwyth, UK |
 
 ## ⚙️ Converter
