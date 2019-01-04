@@ -56,9 +56,15 @@ The purpose of this collection is just giving one recommendation for each topic 
 | --- | --- | --- |
 | [iOS Conf](https://2019.iosconf.sg) | Jan 17-19, 2019 | 🇸🇬 Singapore |
 | [dotSwift](https://www.dotswift.io) | Jan 28, 2019 | 🇫🇷 Paris, France |
-| [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
 | [MobOS](http://romobos.com) | Feb 14-16, 2019 | 🇷🇴 Cluj-Napoca, Romania |
 | [try! Swift](http://romobos.com) | Mar 01-03, 2019 | 🇯🇵 Tokyo, Japan |
+| [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
+| [iOSCON](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | Mar 21-22, 2019 | 🇬🇧 London, United Kingdom |
+| [Swift by Midwest](https://swiftbymidwest.com) | Apr 17-18, 2019 | 🇺🇸 Chicago, IL, USA |
+| [NSNorth](http://nsnorth.ca) | Apr 26-28, 2019 | 🇨🇦 Canada |
+| [UIKonf](http://www.uikonf.com) | May 26-29, 2019 | 🇩🇪 Berlin, Germany |
+| [360|iDev](http://360idev.com) | Aug 25-28, 2019 | 🇺🇸 Denver, CO, USA |
+| [iOSDevUK](https://www.iosdevuk.com) | Sep 02-05, 2019 | 🇬🇧 Aberystwyth, UK |
 
 ## ⚙️ Converter
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
