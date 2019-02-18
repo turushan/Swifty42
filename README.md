@@ -54,9 +54,6 @@ The purpose of this collection is just giving one recommendation for each topic 
 ## 👩🏼‍💻 Conference
 | Name | Date | Place |
 | --- | --- | --- |
-| [iOS Conf](https://2019.iosconf.sg) | Jan 17-19, 2019 | 🇸🇬 Singapore |
-| [dotSwift](https://www.dotswift.io) | Jan 28, 2019 | 🇫🇷 Paris, France |
-| [MobOS](http://romobos.com) | Feb 14-16, 2019 | 🇷🇴 Cluj-Napoca, Romania |
 | [try! Swift](http://romobos.com) | Mar 01-03, 2019 | 🇯🇵 Tokyo, Japan |
 | [Appdevcon](http://appdevcon.nl) | Mar 14-15, 2019 | 🇳🇱 Amsterdam, Netherlands |
 | [iOSCON](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | Mar 21-22, 2019 | 🇬🇧 London, United Kingdom |
