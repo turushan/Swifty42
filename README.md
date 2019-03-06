@@ -8,6 +8,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## Table of Contents
 - [⏳ Activity Indicator](#-activity-indicator)
+- [📣 Alert](#-alert)
 - [🎯 Algorithm](#-algorithm)
 - [🍎 App Store](#-app-store)
 - [👨🏻‍🎨 Auto Layout](#-auto-layout)
@@ -35,6 +36,9 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## ⏳ Activity Indicator
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - A collection of awesome loading animations.
+
+## 📣 Alert
+- [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 
 ## 🎯 Algorithm
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
