@@ -66,6 +66,7 @@ The purpose of this collection is just giving one recommendation for each topic 
 | [CodeMobile](http://www.codemobile.co.uk) | Apr 28-29, 2020 | 🇬🇧 London, UK |
 | [UIKonf](http://www.uikonf.com) | May 17-20, 2020 | 🇩🇪 Berlin, Germany |
 | [iOSDevUK](https://www.iosdevuk.com) | Sep 06-09, 2020 | 🇬🇧 Aberystwyth, UK |
+| [SwiftLeeds](https://swiftleeds.co.uk) | Oct 08, 2020 | 🇬🇧 Leeds, UK |
 
 ## ⚙️ Converter
 - [Swiftify](https://swiftify.com) - Objective-C to Swift Converter.
