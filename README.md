@@ -110,6 +110,3 @@ The purpose of this collection is just giving one recommendation for each topic 
 
 ## 💫 Transition
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS.
-
-## 🗞 Weekly Newsletter
-- [Swift News](https://www.youtube.com/watch?v=TUhrYBUSnZU) - By Sean Allen, is all about curating this week's latest news involving iOS Development. 🔮 Video format.
