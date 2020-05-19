@@ -54,12 +54,6 @@ The purpose of this collection is just giving one recommendation for each topic 
 ## 👩🏼‍💻 Conference
 | Name | Date | Place |
 | --- | --- | --- |
-| [iOS Conf SG](https://2020.iosconf.sg) | Jan 15-18, 2020 | 🇸🇬 Singapore |
-| [dotSwift](https://www.dotswift.io) | Feb 03, 2020 | 🇫🇷 Paris, France |
-| [MobOS](http://romobos.com) | Feb 20-21, 2020 | 🇷🇴 Cluj Napoca, Romania |
-| [Appdevcon](https://appdevcon.nl) | Mar 10-13, 2020 | 🇳🇱 Amsterdam, Netherlands |
-| [try! Swift Tokyo](https://www.tryswift.co/events/2020/tokyo/en/) | Mar 18-20, 2020 | 🇯🇵 Tokyo, Japan |
-| [CodeMobile](http://www.codemobile.co.uk) | Apr 28-29, 2020 | 🇬🇧 London, UK |
 | [UIKonf](http://www.uikonf.com) | May 17-20, 2020 | 🇩🇪 Berlin, Germany |
 | [iOSDevUK](https://www.iosdevuk.com) | Sep 06-09, 2020 | 🇬🇧 Aberystwyth, UK |
 | [SwiftLeeds](https://swiftleeds.co.uk) | Oct 08, 2020 | 🇬🇧 Leeds, UK |
